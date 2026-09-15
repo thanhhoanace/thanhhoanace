@@ -67,6 +67,7 @@ class HoanNguyen:
 | Project | What it is | Stack |
 |---|---|---|
 | [ezHarness](https://github.com/thanhhoanace/ezharness) | Per-repo evidence gate for git: a change made by a coding agent cannot pass the commit boundary until an independent verifier replays the recorded checks. Ships as one static binary via a [Homebrew tap](https://github.com/thanhhoanace/homebrew-tap). | Go |
+| [rke2-ha-vagrant-ansible](https://github.com/thanhhoanace/rke2-ha-vagrant-ansible) | HA RKE2 Kubernetes lab on VirtualBox: HAProxy/Keepalived VIP, 3 control-plane + 3 worker nodes, Cilium without kube-proxy. Built to rehearse cluster-level changes before touching shared environments. | Vagrant, Ansible, RKE2 |
 | [emperors](https://github.com/thanhhoanace/emperors) | Real-time multi-agent simulation: four historical emperors compete in the Three Kingdoms era, driven by LLM agents on a 3D map. | Node.js, Three.js |
 
 ## 📫 Let's Connect
