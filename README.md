@@ -55,13 +55,6 @@ class HoanNguyen:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanhhoanace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhoanace&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
 ## 🎯 What I Do
 
 - Maintain a shared GitLab CI template library that development teams use for Java and Node.js services, with code quality and security scanning stages built in.
