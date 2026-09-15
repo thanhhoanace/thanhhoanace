@@ -6,35 +6,10 @@
 
 ## 👨‍💻 About Me
 
-```python
-class HoanNguyen:
-    def __init__(self):
-        self.name = "Nguyen Thanh Hoan"
-        self.role = "DevOps Engineer (Senior Software Development Specialist)"
-        self.company = "PVcomBank — Hanoi, Vietnam"
-        self.timeline = {
-            "backend_since": 2019,
-            "devops_since": 2022,
-        }
-        self.interests = ["DevSecOps", "GitOps", "Platform engineering", "AI coding agents"]
-
-    def get_skills(self):
-        return {
-            "Platform": ["Kubernetes", "OpenShift", "Argo CD", "Helm", "Kustomize"],
-            "Delivery": ["GitLab CI", "Terraform", "Ansible", "Docker"],
-            "Cloud":    ["AWS (EKS, Terraform)", "Oracle Cloud homelab"],
-            "Backend":  ["Java", "Spring Boot / WebFlux", "Kafka", "Oracle DB"],
-            "Observe":  ["Prometheus", "Grafana", "Loki"],
-            "AI tools": ["Claude Code", "Codex", "ezHarness"],
-        }
-
-    def get_current_focus(self):
-        return [
-            "Keeping security checks inside the pipeline, not beside it",
-            "Running banking workloads on Kubernetes with GitOps",
-            "Making coding-agent changes provable before they merge",
-        ]
-```
+- DevOps engineer at **PVcomBank** (Hanoi, Vietnam), title Senior Software Development Specialist.
+- Backend developer since 2019, DevOps and platform work since 2022. I still write code, which helps me operate the systems I run.
+- Day to day: Kubernetes and OpenShift, Argo CD, GitLab CI, Terraform, Ansible, AWS (EKS), Java/Spring, Kafka, Prometheus and Grafana.
+- Interests: DevSecOps, GitOps, platform engineering, and making coding-agent changes provable before they merge.
 
 ## 🛠️ Tech Stack
 
